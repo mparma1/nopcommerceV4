@@ -1,0 +1,126 @@
+2021-11-29 10:31:20,363 - nopCommerceV2 -INFO - URL open.....
+2021-11-29 10:31:20,632 - nopCommerceV2 -INFO - User name clicked...
+2021-11-29 10:31:20,720 - nopCommerceV2 -INFO - Password entered..
+2021-11-29 10:31:29,880 - nopCommerceV2 -INFO - Login is clicked
+2021-11-29 10:31:35,383 - nopCommerceV2 -INFO - Test case Pass
+2021-11-29 10:32:06,820 - nopCommerceV2 -INFO - URL open.....
+2021-11-29 10:32:07,165 - nopCommerceV2 -INFO - User name clicked...
+2021-11-29 10:32:07,278 - nopCommerceV2 -INFO - Password entered..
+2021-11-29 10:32:14,295 - nopCommerceV2 -INFO - Login is clicked
+2021-11-29 12:27:35,643 - nopCommerceV2 -INFO - URL open.....
+2021-11-29 12:27:35,792 - nopCommerceV2 -INFO - User name clicked...
+2021-11-29 12:27:35,896 - nopCommerceV2 -INFO - Password entered..
+2021-11-29 12:27:51,039 - nopCommerceV2 -INFO - Login is clicked
+2021-11-29 12:27:53,735 - nopCommerceV2 -INFO - Test case Pass
+2021-11-29 12:38:57,239 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 12:38:57,364 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 12:39:07,172 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 12:39:07,354 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 12:39:10,898 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 12:39:14,145 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 12:39:14,320 - nopCommerceV2 -INFO - Email entered
+2021-11-29 12:39:14,890 - nopCommerceV2 -INFO - last name entered
+2021-11-29 12:39:15,192 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 12:39:15,374 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 12:39:15,974 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 12:39:16,176 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 12:39:16,595 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 12:39:19,130 - nopCommerceV2 -INFO - Click on save
+2021-11-29 12:39:19,130 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 12:39:20,777 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 12:39:53,925 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 12:39:54,017 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 12:40:00,184 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 12:40:00,399 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 12:40:02,826 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 12:40:05,265 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 12:40:05,404 - nopCommerceV2 -INFO - Email entered
+2021-11-29 12:40:06,008 - nopCommerceV2 -INFO - last name entered
+2021-11-29 12:40:06,275 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 12:40:06,393 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 12:40:06,717 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 12:40:06,973 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 12:40:07,111 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 12:40:08,674 - nopCommerceV2 -INFO - Click on save
+2021-11-29 12:40:08,675 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 12:40:09,304 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 12:40:29,080 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 12:40:29,172 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 12:40:32,494 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 12:40:32,748 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 12:40:58,354 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 12:40:58,441 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 12:41:03,982 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 12:41:04,116 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 12:41:06,636 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 12:41:08,070 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 12:41:08,302 - nopCommerceV2 -INFO - Email entered
+2021-11-29 12:41:08,775 - nopCommerceV2 -INFO - last name entered
+2021-11-29 12:41:09,001 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 12:41:09,123 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 12:41:09,470 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 12:41:09,609 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 12:41:09,942 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 12:41:11,346 - nopCommerceV2 -INFO - Click on save
+2021-11-29 12:41:11,346 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 12:41:12,874 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 13:02:19,780 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 13:02:19,869 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 13:02:25,803 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 13:02:26,005 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 13:02:29,409 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 13:02:30,834 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 13:02:30,983 - nopCommerceV2 -INFO - Email entered
+2021-11-29 13:02:31,322 - nopCommerceV2 -INFO - last name entered
+2021-11-29 13:02:31,552 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 13:02:31,661 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 13:02:31,878 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 13:02:32,053 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 13:02:32,174 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 13:02:34,649 - nopCommerceV2 -INFO - Click on save
+2021-11-29 13:02:34,649 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 13:02:35,302 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 13:26:25,237 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 13:26:25,333 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 13:26:30,457 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 13:26:30,653 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 13:26:35,899 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 13:26:41,776 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 13:26:41,904 - nopCommerceV2 -INFO - Email entered
+2021-11-29 13:26:42,265 - nopCommerceV2 -INFO - last name entered
+2021-11-29 13:26:42,504 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 13:26:42,657 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 13:26:42,853 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 13:26:43,092 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 13:26:43,223 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 13:26:45,483 - nopCommerceV2 -INFO - Click on save
+2021-11-29 13:26:45,484 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 13:26:47,172 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 18:12:38,486 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 18:12:38,677 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 18:12:44,399 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 18:12:44,825 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 18:14:41,824 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 18:14:41,986 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 18:14:53,402 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 18:14:53,574 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 18:14:58,672 - nopCommerceV2 -INFO - click on menu iteam
+2021-11-29 18:15:00,566 - nopCommerceV2 -INFO - click on addNew
+2021-11-29 18:15:00,791 - nopCommerceV2 -INFO - Email entered
+2021-11-29 18:15:01,433 - nopCommerceV2 -INFO - last name entered
+2021-11-29 18:15:01,745 - nopCommerceV2 -INFO - Dob entered
+2021-11-29 18:15:01,904 - nopCommerceV2 -INFO - Company name entered
+2021-11-29 18:15:02,270 - nopCommerceV2 -INFO - News letter selected
+2021-11-29 18:15:02,525 - nopCommerceV2 -INFO - customer role selected
+2021-11-29 18:15:02,928 - nopCommerceV2 -INFO - Vendder entered
+2021-11-29 18:15:06,722 - nopCommerceV2 -INFO - Click on save
+2021-11-29 18:15:06,723 - nopCommerceV2 -INFO - Validation start....
+2021-11-29 18:15:08,415 - nopCommerceV2 -INFO - Test case passed....
+2021-11-29 18:18:16,037 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 18:18:16,129 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 18:18:24,348 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 18:18:24,517 - nopCommerceV2 -INFO - Click on customer
+2021-11-29 18:34:48,556 - nopCommerceV2 -INFO - User name is provid
+2021-11-29 18:34:48,795 - nopCommerceV2 -INFO - Password is provided
+2021-11-29 18:34:57,250 - nopCommerceV2 -INFO - Provide customer details
+2021-11-29 18:34:57,780 - nopCommerceV2 -INFO - Click on customer

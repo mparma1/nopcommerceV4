@@ -1,0 +1,8 @@
+com\nopcommerce\TestCases\TC_LoginDDT_002.class
+com\nopcommerce\pageObject\LoginPage.class
+com\nopcommerce\TestCases\BaseClass.class
+com\nopcommerce\TestCases\TC_AddCustomerTest_003.class
+com\nopcommerce\pageObject\AddcustomerPage.class
+com\nopcommerce\TestCases\TC_LoginTest_001.class
+com\nopcommerce\utilities\XLUtils.class
+com\nopcommerce\utilities\ReadConfig.class
